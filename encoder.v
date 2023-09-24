@@ -3,9 +3,9 @@
 // Company: 
 // Engineer: 
 // 
-// Create Date: 08/07/2023 09:21:53 AM
+// Create Date: 07/13/2023 09:54:53 AM
 // Design Name: 
-// Module Name: jk_ff_tb
+// Module Name: encoder_8_3
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
